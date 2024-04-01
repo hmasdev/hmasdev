@@ -3,7 +3,7 @@
 I am working as a Machine Learning Engineer in Tokyo, Japan.
 I am interested in Python, Machine Learning.
 
-![GithubStatsCard](https://github-readme-stats.vercel.app/api?username=hmasdev&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
+![GithubStatsCard](https://github-readme-stats.vercel.app/api?username=hmasdev&theme=tokyonight&show_icons=true&include_all_commits=true)
 ![TopLanguagesCard](https://github-readme-stats.vercel.app/api/top-langs/?username=hmasdev&layout=donut&theme=tokyonight)
 
 ## 💻 My Projects
