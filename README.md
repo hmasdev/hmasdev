@@ -32,7 +32,7 @@ I am interested in Python, Machine Learning.
 |[![QuickTypoFix](https://github-readme-stats.vercel.app/api/pin/?username=hmasdev&repo=QuickTypoFix&theme=tokyonight&show_owner=true)](https://github.com/hmasdev/QuickTypoFix)<br>![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hmasdev/QuickTypoFix?sort=semver)![GitHub Liecense](https://img.shields.io/github/license/hmasdev/QuickTypoFix)![GitHub last commit](https://img.shields.io/github/last-commit/hmasdev/QuickTypoFix)|<ul><li><b>🔧Techs</b>: JavaScript, <a href="https://openai.com/blog/openai-api">OpenAI API</a></li><li><b>💡Features</b>:<ul><li>Simple Shortcut to fix typo in a line: `Ctrl+K Ctrl+N`</li><li>You can set API endpoint, model name and system prompt.</li><li>The fixed positions are highlighted.</li></ul></li></ul>|
 |[![vscode-ext-version](https://github-readme-stats.vercel.app/api/pin/?username=hmasdev&repo=vscode-ext-version&theme=tokyonight&show_owner=true)](https://github.com/hmasdev/vscode-ext-version)<br>![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hmasdev/vscode-ext-version?sort=semver)![GitHub Liecense](https://img.shields.io/github/license/hmasdev/vscode-ext-version)![GitHub last commit](https://img.shields.io/github/last-commit/hmasdev/vscode-ext-version)|<ul><li><b>🔧Techs</b>: bash, <a href="https://github.com/bats-core/bats-core">bats</a></li><li><b>💡Features</b>:<ul><li>Get the latest version of a vscode extension</li><li>Download the `vsix` file</li></ul></li></ul>|
 
-### :keybaord: Keyboards
+### ⌨️ Keyboards
 
 | Projects | Techs and Features |
 | :--- | :--- |
