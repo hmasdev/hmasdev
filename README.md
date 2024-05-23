@@ -36,7 +36,7 @@ I am interested in Python, Machine Learning.
 
 | Projects | Techs and Features |
 | :--- | :--- |
-| [![hmproto34](https://github-readme-stats.vercel.app/api/pin/?username=hmasdev&repo=hmproto34&theme=tokyonight&show_owner=true)](https://github.com/hmasdev/hmproto34)<br>![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hmasdev/hmproto34?sort=semver)![GitHub Liecense](https://img.shields.io/github/license/hmasdev/hmproto34)![GitHub last commit](https://img.shields.io/github/last-commit/hmasdev/hmproto34)|<ul><li><b>🔧Techs</b>: C, [QMK MSYS](https://msys.qmk.fm/)</li><li><b>💡Features</b><ul><li>hand-fitted key allocation :raised_hands:</li><li>34 keys</li><li>Active thumbs :+1:</li></ul></li></ul>|
+| [![hmproto34](https://github-readme-stats.vercel.app/api/pin/?username=hmasdev&repo=hmproto34&theme=tokyonight&show_owner=true)](https://github.com/hmasdev/hmproto34)<br>![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/hmasdev/hmproto34?sort=semver)![GitHub Liecense](https://img.shields.io/github/license/hmasdev/hmproto34)![GitHub last commit](https://img.shields.io/github/last-commit/hmasdev/hmproto34)|<ul><li><b>🔧Techs</b>: C, [QMK Firmware](https://docs.qmk.fm/), [QMK MSYS](https://msys.qmk.fm/)</li><li><b>💡Features</b><ul><li>hand-fitted key allocation :raised_hands:</li><li>splitted</li><li>34 keys</li></ul></li></ul>|
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25"/> Utilities
 
