@@ -1,6 +1,6 @@
 # Hi, I'm [hmasdev](https://github.com/hmasdev) 👋 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/hmdev3)
 
-I am working as a Machine Learning Engineer in Tokyo, Japan.
+I am working as a data scientist and a machine learning engineer in Tokyo, Japan.
 I am interested in Python, Machine Learning.
 
 ![GithubStatsCard](https://github-readme-stats.vercel.app/api?username=hmasdev&theme=tokyonight&show_icons=true&include_all_commits=true)
